@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Data files (if not meant to be version controlled)
+*.csv
+*.xlsx
+*.db
+
+# Log files
+*.log
+
+# Editor specific files (e.g., VS Code)
+.vscode/
+
+# Data
+data/
